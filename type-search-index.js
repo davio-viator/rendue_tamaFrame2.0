@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"tamagoshis","l":"GrosJoueur"},{"p":"tamagoshis","l":"GrosMangeur"},{"p":"tamagoshis.graphics","l":"NewTamaGame"},{"p":"tamagoshis.graphics","l":"TamaFrame"},{"p":"tamagoshis","l":"Tamagoshi"},{"p":"tamagoshis.graphics","l":"TamaJPanel"},{"p":"tamagoshis","l":"Utilisateur"}];updateSearchResults();

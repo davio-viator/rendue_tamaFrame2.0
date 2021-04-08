@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-07T19:21:59.963474700Z</date>
+  <millis>1617823319963</millis>
+  <nanos>474700</nanos>
+  <sequence>1</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>difficulty is : 3</message>
+</record>
+<record>
+  <date>2021-04-07T19:21:59.978434700Z</date>
+  <millis>1617823319978</millis>
+  <nanos>434700</nanos>
+  <sequence>2</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>a deviant tamagoshi was created</message>
+</record>
+<record>
+  <date>2021-04-07T19:21:59.980428900Z</date>
+  <millis>1617823319980</millis>
+  <nanos>428900</nanos>
+  <sequence>3</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>a deviant tamagoshi was created</message>
+</record>
+<record>
+  <date>2021-04-07T19:21:59.982423200Z</date>
+  <millis>1617823319982</millis>
+  <nanos>423200</nanos>
+  <sequence>4</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>a normal tamagoshi was created</message>
+</record>
+<record>
+  <date>2021-04-07T19:22:14.273614500Z</date>
+  <millis>1617823334273</millis>
+  <nanos>614500</nanos>
+  <sequence>5</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>finInteraction</method>
+  <thread>18</thread>
+  <message>Diva a ete supprimer</message>
+</record>
+<record>
+  <date>2021-04-07T19:22:20.462862600Z</date>
+  <millis>1617823340462</millis>
+  <nanos>862600</nanos>
+  <sequence>6</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>finInteraction</method>
+  <thread>18</thread>
+  <message>Southside a ete supprimer</message>
+</record>
+<record>
+  <date>2021-04-07T19:22:24.018363Z</date>
+  <millis>1617823344018</millis>
+  <nanos>363000</nanos>
+  <sequence>7</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>finInteraction</method>
+  <thread>18</thread>
+  <message>the Red a ete supprimer</message>
+</record>
+<record>
+  <date>2021-04-07T19:22:24.020357400Z</date>
+  <millis>1617823344020</millis>
+  <nanos>357400</nanos>
+  <sequence>8</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>handleEndOfGame</method>
+  <thread>18</thread>
+  <message>message des survivant
+Southside qui etait un GrosMangeur n'est pas arrivivé au bout et ne vous remercie pas :(
+Diva qui etait un GrosJoueur n'est pas arrivivé au bout et ne vous remercie pas :(
+the Red qui etait un Tamagoshi a survecu et vous remercie :)
+your score was 63.33333333333333%</message>
+</record>
+<record>
+  <date>2021-04-07T19:22:24.021356500Z</date>
+  <millis>1617823344021</millis>
+  <nanos>356500</nanos>
+  <sequence>9</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>handleEndOfGame</method>
+  <thread>18</thread>
+  <message>le score : 63.33333333333333</message>
+</record>
+<record>
+  <date>2021-04-07T19:22:33.133200900Z</date>
+  <millis>1617823353133</millis>
+  <nanos>200900</nanos>
+  <sequence>10</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>printProperties</method>
+  <thread>18</thread>
+  <message>cree les fichier properties</message>
+</record>
+<record>
+  <date>2021-04-07T19:22:33.162124Z</date>
+  <millis>1617823353162</millis>
+  <nanos>124000</nanos>
+  <sequence>11</sequence>
+  <logger>test.test</logger>
+  <level>INFO</level>
+  <class>tamagoshis.graphics.TamaGameFrame</class>
+  <method>handleEndOfGame</method>
+  <thread>18</thread>
+  <message>fermeture des tamaFrame</message>
+</record>
+</log>
